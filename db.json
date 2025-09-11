@@ -1,0 +1,124 @@
+{
+  "admin": [
+    {
+      "id": "1",
+      "fname": "preeti",
+      "lname": "Raj",
+      "email": "preti@gmail.com"
+    },
+    {
+      "id": "2",
+      "fname": "kathir",
+      "lname": "Raj",
+      "email": "kathir@gmail.com"
+    },
+    {
+      "id": "4",
+      "fname": "krisha",
+      "lname": "karthikn",
+      "email": "kk@gmail.com"
+    },
+    {
+      "id": "5",
+      "fname": "athiyan",
+      "lname": "manoj",
+      "email": "adm@gmail.com"
+    }
+  ],
+  "student": [
+    {
+      "id": "1",
+      "name": "sanjay",
+      "age": "19",
+      "branch": "cse"
+    },
+    {
+      "id": "2",
+      "name": "pooja",
+      "age": "20",
+      "branch": "it"
+    },
+    {
+      "id": "3",
+      "name": "ktr",
+      "age": "23",
+      "branch": "ece"
+    },
+    {
+      "id": "4",
+      "name": "pre",
+      "age": "22",
+      "branch": "mca"
+    },
+    {
+      "id": "5",
+      "name": "shr",
+      "age": "22",
+      "branch": "AI"
+    },
+    {
+      "id": "6",
+      "name": "kkn",
+      "age": "24",
+      "branch": "mech"
+    }
+  ],
+  "flights":[
+    {"id":"1","name":"Air India AI-305","from":"TRZ","to":"MAA","dep":"2025-09-21","price":"3700"},
+    {"id":"2","name":"IndiGo 6E-201","from":"MAA","to":"BOM","dep":"2025-09-20","price":"4200"},
+    {"id":"3","name":"SpiceJet SG-400","from":"BLR","to":"MAA","dep":"2025-09-20","price":"3500"},
+    {"id":"4","name":"Air India AI-305","from":"BOM","to":"HYD","dep":"2025-09-20","price":"7300"},
+    {"id":"5","name":"Air India AI-305","from":"TRZ","to":"PNQ","dep":"2025-09-20","price":"5700"},
+    {"id":"6","name":"Air India AI-305","from":"DEL","to":"MAA","dep":"2025-09-20","price":"9000"},
+    {"id":"7","name":"IndiGo 6E-201","from":"TRZ","to":"MAA","dep":"2025-09-20","price":"4000"},
+    {"id":"8","name":"SpiceJet SG-400","from":"TRZ","to":"MAA","dep":"2025-09-20","price":"1700"},
+    {"id":"9","name":"Air India AI-305","from":"MAA","to":"TRZ","dep":"2025-09-20","price":"1800"},
+    {"id":"10","name":"Air India AI-305","from":"PNQ","to":"TRZ","dep":"2025-09-20","price":"5500"}
+],
+  "ports":[
+    {
+      "name":"Chennai",
+      "code":"MAA"
+    },
+    {
+      "name":"Trichy",
+      "code":"TRZ"
+    },
+    {
+      "name":"Hyderabad",
+      "code":"HYD"
+    },
+    {
+      "name":"Mumbai",
+      "code":"BOM"
+    },
+    {
+      "name":"Pune",
+      "code":"PNQ"
+    },
+    {
+      "name":"Surat",
+      "code":"STV"
+    },
+    {
+      "name":"Bengaluru",
+      "code":"BLR"
+    },
+    {
+      "name":"Delhi",
+      "code":"DEL"
+    },
+    {
+      "name":"Mangalore",
+      "code":"IXE"
+    },
+    {
+      "name":"Kannur",
+      "code":"CNN"
+    },
+    {
+      "name":"GOA",
+      "code":"GOI"
+    }
+  ]
+}
